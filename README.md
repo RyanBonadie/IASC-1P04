@@ -3,7 +3,7 @@
 
 ## About the Game
 
-Crash Landing is a short adventure game set on earth as the tiny alien Niko tries to find the missing part he needs to repair his ship and go home. He meets many creatures new and unfamiliar to him. Some are friendly, some aren't. Niko must survive the outside world and discovers how helping people and making friends can benefit you in the long run.
+Crash Landing is a short adventure game set on earth as the tiny alien Niko tries to find the missing part he needs to repair his ship and go home. He meets many creatures new and unfamiliar to him. Some are friendly, some aren't. Niko must survive the outside world and discovers not only how friends can come from anywhere, but also how making friends can benefit you in the long run.
 
 ## Play now
 
